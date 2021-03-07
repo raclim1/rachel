@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" name="100dollars reaction" version="1">
+
+<description type="text/html"><![CDATA[Widget Exported from Flash Professional]]></description>
+
+<category name="Flash Animation"/>
+<remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+<icon src="PosterImg_165.png" width="1920" height="1080"/>
+<require type="other" src="Untitled-5.swf"/>
+<require type="other" src="Untitled-5.html"/>
+<content></content>
+
+<properties name="Properties">
+<property name="default-width" defaultValue="1920" hidden="true"/>
+<property name="default-height" defaultValue="1080" hidden="true"/>
+<property name="resizable" defaultValue="false" hidden="true"/>
+<property name="centering" defaultValue="none" hidden="true"/>
+<property name="scaling" defaultValue="none" hidden="true"/>
+<property name="html-page" defaultValue="Untitled-5.html" hidden="true"/>
+<property name="target-platform" defaultValue="flash" hidden="true"/>
+<property name="created-in" defaultValue="Adobe Animate CC" hidden="true"/>
+</properties>
+
+</widget>
